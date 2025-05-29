@@ -1,8 +1,10 @@
 
 - 🔭 В настоящее время работаю над интересными проектами
 - 🌱 Изучаю новые технологии
-- 💬 Спрашивайте меня о чем угодно
-- 📫 Как связаться со мной: [usmanakkaev@gmail.com](mailto:usmanakkaev@gmail.com)
+- 📫 Как связаться со мной:
+
+  [usmanakkaev@gmail.com](mailto:usmanakkaev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Usman_it)
 
 ## 🛠️ Навыки
 
@@ -22,13 +24,9 @@
 
 ![UsmanA07's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanA07&show_icons=true&theme=radical)
 
-## 📫 Контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Usman_it)
-
 ![Посетители](https://profile-counter.glitch.me/UsmanA07/count.svg)
 
 ---
 
 
-Если нужно — готов помочь вам с разработкой, консультациями и open source проектами!
+Если нужно — готов помочь вам с разработкой и open-source проектами!
