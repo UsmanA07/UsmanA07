@@ -3,9 +3,9 @@
 - 🌱 Изучаю новые технологии
 - 📫 Как связаться со мной:
 
-  [usmanakkaev@gmail.com](mailto:usmanakkaev@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Usman_it)
-
+  - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Usman_it)
+  - [usmanakkaev@gmail.com](mailto:usmanakkaev@gmail.com)
+  
 ## 🛠️ Навыки
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
